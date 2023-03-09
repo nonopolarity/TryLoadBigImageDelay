@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+// demo at https://codesandbox.io/s/determined-jones-prpxq5
+
 import { useState } from "react";
 import "./App.css";
 
